@@ -8,6 +8,6 @@ Ce repository rassemble, rangées par thèmes, les différentes notions du progr
 
 C'est avant tout un support de révisions pour les examens, s'il y a des coquilles, ne pas hésiter à faire une pull request.
 
-Alors, on a les foies ? Viens réviser avec nous !
+Alors, l'ami, on a les foies ? Viens réviser avec nous !
 
 - Par Beck 'Brookie' Brook, 2023
