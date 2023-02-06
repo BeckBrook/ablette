@@ -2,7 +2,7 @@
 
 ### Menu
 
-- [Binaire](BeckBrook/ablette/blob/main/reseau/langages###Binaire)
+- [Binaire](/reseau/langages###Binaire)
 - [Héxadécimal]()
 - [Décimal]()
 - [Conversion binaire->héxa]()
