@@ -1,5 +1,19 @@
 ## Langages
 
+### Menu
+
+[Binaire](BeckBrook/ablette/blob/main/reseau/langages###Binaire)
+[Héxadécimal]()
+[Décimal]()
+[Conversion binaire->héxa]()
+[Conversion héxa->binaire]()
+[Conversion décimal->binaire]()
+[Conversion binaire->décimal]()
+[Conversion décimal->héxa]()
+[converion héxa->décimal]()
+
+
+
 ### Binaire
 
 Exemple : 01001010 01101111 01110101 01101111 01101110 01110011 00100000 01100001 01110101 00100000 01000111 01010111 01011001 01001110 01010100 00100000 00100001 00100000
