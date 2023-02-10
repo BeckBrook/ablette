@@ -1,19 +1,5 @@
 ## Langages
 
-### Menu
-
-- [Binaire](/reseau/langages###Binaire)
-- [Héxadécimal]()
-- [Décimal]()
-- [Conversion binaire->héxa]()
-- [Conversion héxa->binaire]()
-- [Conversion décimal->binaire]()
-- [Conversion binaire->décimal]()
-- [Conversion décimal->héxa]()
-- [converion héxa->décimal]()
-
-
-
 ### Binaire
 
 Exemple : 01001010 01101111 01110101 01101111 01101110 01110011 00100000 01100001 01110101 00100000 01000111 01010111 01011001 01001110 01010100 00100000 00100001 00100000
@@ -34,11 +20,7 @@ Pour convertir en binaire à la main, on peut dresser un tableau des puissances 
 
 5. Une fois tous les bits écrits, on lit le nombre binaire de gauche à droite
 
-
-
 (nota bene : les premiers 0 d'un nombre binaire sont optionnels, mais pas les derniers, c'est comme par exemple écrire 500 comme 000500.)
-
-
 
 ### Application
 
@@ -54,8 +36,6 @@ Je veux le nombre 192.
 Ainsi 192 = 11000000
 
 Notez que la table range toujours les puissances de la plus élevée à 2^0 = 1. En théorie, elle contient **toutes** les puissances de 2, mais dans le cas de l'adressage ip, il nous suffit de renseigner jusqu'à 2^7.
-
-
 
 ### Notion de réseau - IP
 
