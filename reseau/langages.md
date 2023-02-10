@@ -1,3 +1,6 @@
+- [Binaire](###Binaire)
+
+
 ## Langages
 
 ### Binaire
