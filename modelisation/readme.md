@@ -28,7 +28,7 @@ Il y a un ordre : le comportement du programme va se concrétiser à mesure que 
 
 
 
-### Merise, dans quel ordre ?
+## Merise, dans quel ordre ?
 
 Il est conseillé de réaliser Merise dans un second temps, s'il est compris dans le projet, car certaines de ses données sont à même de se baser sur des diagrammes de UML , comme le diagramme de cadre d'utilisation (1) ou de classe (2).
 
