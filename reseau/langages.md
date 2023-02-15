@@ -3,11 +3,22 @@
 
 ## Langages
 
+### Décimal 
+
+Le Décimal est le système que nous utilisons tous les jours pour compter. Les chiffres possibles sont [0,1,2,3,4,5,6,7,8,9], il y a dix possibilités, ainsi on peut dire qu'ils sont en base dix.
+
 ### Binaire
 
 Exemple : 01001010 01101111 01110101 01101111 01101110 01110011 00100000 01100001 01110101 00100000 01000111 01010111 01011001 01001110 01010100 00100000 00100001 00100000
 
-Les machines utilisent le langage binaire pour communiquer entre elles, fait de 1 et de 0, il se quantifie en bits (compression de "Binary Digits"). Il est appelé Binaire car seules deux valeurs peuvent apparaître, on dit qu'il est en base 2. 
+Les machines utilisent le langage binaire pour communiquer entre elles, il se quantifie en bits (compression de "Binary Digits"). Il est appelé Binaire car seules deux valeurs peuvent apparaître, à savoir : [0,1], on dit qu'il est en base 2. 
+
+
+### Héxadécimal
+
+Le syst
+
+
 
 ## Comment compter en binaire ?
 
@@ -47,3 +58,5 @@ Pourquoi ? notez que le nombre de cases équivaut à 8 données, ainsi un octet.
 - par exemple : 192.168.1.1 = un octet à 192 + un deuxième octet à 168 + un troisième octet à 1 + un quatrième octet à 1
 
 le nombre maximum que peut atteindre un nombre binaire en 8 octets (càd, toutes les cases à 1 dans le tableau) est : 128+64+32+16+8+4+2+1 = 255
+
+### convertir de Décimal en Binaire

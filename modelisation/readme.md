@@ -42,6 +42,6 @@ Le dictionnaire de données renseigne une donnée par ligne avec son nom, son ty
 
 ### 2. Modèle Conceptuel de Données (MCD)
 
-Le *MCD* 
+Le *MCD* décrit les données qui seront utilisées dans le système, on parle ici de représentation de données.
 
 ### 3. Modèle Logique de Données (MLD)
