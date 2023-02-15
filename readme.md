@@ -6,8 +6,6 @@ Ce repository rassemble, rangées par thèmes, les différentes notions du progr
 
 C'est avant tout un support de révisions pour les examens, s'il y a des coquilles, ne pas hésiter à faire une pull request.
 
-
-
 Tu comptes me faire languir encore longtemps ? Alors viens réviser ! 
 
 - Par Beck 'Brookie' Brook, 2023
