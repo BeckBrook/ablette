@@ -14,8 +14,6 @@ Tous les diagrammes et langages ne sont pas dressés, ceci reste une introductio
 
 Il y a un ordre : le comportement du programme va se concrétiser à mesure que vous modéliserez les diagrammes. UML permet de décrire son fonctionnement, ses composants, les types des données traitées, la chronologie de son fonctionnement, et comment le déployer.
 
-
-
 ### 1. Diagramme de Cas d'Utilisation
 
 ### 2. Diagramme de Classes
@@ -24,24 +22,24 @@ Il y a un ordre : le comportement du programme va se concrétiser à mesure que 
 
 ### 4. Diagramme de Séquence
 
+Le diagramme de séquence décrit le déroulement des cas d'utilisation et les interactions entre les différentes parties du système de manière chronologique. 
+
 ### 5. Diagramme de Déploiement
-
-
 
 ## Merise, dans quel ordre ?
 
 Il est conseillé de réaliser Merise dans un second temps, s'il est compris dans le projet, car certaines de ses données sont à même de se baser sur des diagrammes de UML , comme le diagramme de cadre d'utilisation (1) ou de classe (2).
 
-
-
 ### 1. Dictionnaire de données
 
 Le dictionnaire de données renseigne une donnée par ligne avec son nom, son type, et sa description.
-
-
 
 ### 2. Modèle Conceptuel de Données (MCD)
 
 Le *MCD* décrit les données qui seront utilisées dans le système, on parle ici de représentation de données.
 
 ### 3. Modèle Logique de Données (MLD)
+
+Le *MLD*, plus précis que le *MCD*, où l'intitulé des relations devient une entité à part entière
+
+### 4. Modèle Physique des Données (MPD)
